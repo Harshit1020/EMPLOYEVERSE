@@ -3,7 +3,7 @@ import './globals.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
 export const metadata = {
-  title: 'Internshala',
+  title: 'EmployeVerse',
 }
 
 export default function RootLayout({ children }) {
